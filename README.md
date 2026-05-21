@@ -1,4 +1,4 @@
-## ⚙️ Intended Behavior (How It Should Work)
+## Intended Behavior (How It Should Work)
 
 When the application is running correctly on a supported host, here is exactly what it does:
 
@@ -9,7 +9,7 @@ When the application is running correctly on a supported host, here is exactly w
 
 ---
 
-## ⚠️ Potential Breakages (How It Might Not Work)
+## Potential Breakages (How It Might Not Work)
 
 Like any system-level privacy utility, certain edge cases, configurations, or environmental conflicts can cause the app to fail or misbehave. Here is what to look out for:
 
